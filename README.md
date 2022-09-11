@@ -25,9 +25,9 @@
 | `/misson`  | View your daily/weekly mission progress |
 | `/nightmarket`  | Shows your nightmarket |
 | `/battlepass`  | View your battlepass' current tier |
-| `/bundle`  | inspect a specific bundle `credit by Giorgio` |
-| `/bundles`  | Show the current featured bundles `credit by Giorgio` |
-| `/cookies`  | Login to your account with a cookie, [How to cookies][SkinpeekCookies] `credit by Giorgio`, [video][CookieLogin] |
+| `/bundle`  | inspect a specific bundle |
+| `/bundles`  | Show the current featured bundles |
+| `/cookies`  | Login to your account with a cookie |
 | `/notify add`  | Set a notification when a specific skin is available on your store |
 | `/notify list`  | View skins you have set a notification for |
 | `/notify mode`  | Change notification mode `Specified skin` or `all skin` |
