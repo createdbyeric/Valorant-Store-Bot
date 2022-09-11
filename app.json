@@ -1,0 +1,11 @@
+{
+  "name": "VALORANT Discord Bot",
+  "description": "Custom Discord Bot for VALORANT",
+  "repository": "https://github.com/createdbyeric/valorant-bot",
+  "keywords": [
+    "python",
+    "discord",
+    "bot",
+    "store"
+  ]
+}
