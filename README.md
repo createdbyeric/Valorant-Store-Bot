@@ -1,7 +1,5 @@
 <h1 align="center">
-  <br>
   VALORANT Discord Bot
-  <br>
 </h1>
 
 VALORANT Bot is a discord bot that shows your current VALORANT store without the need to login. Login is handeled by the VALORANT-API. 
