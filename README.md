@@ -1,10 +1,18 @@
 <h1 align="center">
-  VALORANT Discord Bot
+  <a href="https://github.com/staciax/ValorantStoreChecker-discord-bot"></a>
+  Valorant Discord Bot
 </h1>
+<h4 align="center">Store, Nightmarket, Battlepass, Missions, Bundle, Notify</h4>
 
-VALORANT Bot is a discord bot that shows your current VALORANT store without the need to login. Login is handeled by the VALORANT-API. 
-
-No login information is stored by the bot. Ever.
+<p align="center">
+    <a href="https://github.com/staciax/ValorantStoreChecker-discord-bot">
+     <img src="https://img.shields.io/github/v/release/staciax/ValorantStoreChecker-discord-bot" alt="release">
+  </a>
+  <a href="https://github.com/Rapptz/discord.py/">
+     <img src="https://img.shields.io/badge/discord-py-blue.svg" alt="discord.py">
+  </a>
+    <a title="Crowdin" target="_blank" href="https://crowdin.com/project/discord-bot-valorant"><img src="https://badges.crowdin.net/discord-bot-valorant/localized.svg">
+ </a>
 
 ## Usage
 
