@@ -4,16 +4,6 @@
 </h1>
 <h4 align="center">Store, Nightmarket, Battlepass, Missions, Bundle, Notify</h4>
 
-<p align="center">
-    <a href="https://github.com/staciax/ValorantStoreChecker-discord-bot">
-     <img src="https://img.shields.io/github/v/release/staciax/ValorantStoreChecker-discord-bot" alt="release">
-  </a>
-  <a href="https://github.com/Rapptz/discord.py/">
-     <img src="https://img.shields.io/badge/discord-py-blue.svg" alt="discord.py">
-  </a>
-    <a title="Crowdin" target="_blank" href="https://crowdin.com/project/discord-bot-valorant"><img src="https://badges.crowdin.net/discord-bot-valorant/localized.svg">
- </a>
-
 ## Usage
 
 | Command                       | Action                                                                                                     |
